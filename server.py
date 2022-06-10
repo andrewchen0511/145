@@ -19,3 +19,5 @@ def compare():
 if __name__ == "__main__":
     app.debug = False
     app.run(host = "0.0.0.0", port = 5001)
+
+#    git push https://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@github.com/andrewchen0511/145.git
